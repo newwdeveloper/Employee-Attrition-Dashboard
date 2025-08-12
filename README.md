@@ -35,6 +35,29 @@ This project analyzes employee attrition using the IBM HR Analytics Dataset, bui
 ### Screenshots
 
 
+
+## Overview
+
+![Overview](https://raw.githubusercontent.com/newwdeveloper/Employee-Attrition-Dashboard/main/ScreenShots/overview.jpg)
+
+## Demography
+
+![Demography](https://raw.githubusercontent.com/newwdeveloper/Employee-Attrition-Dashboard/main/ScreenShots/demography.jpg)
+
+## Job Satisfaction
+
+![Job Satisfaction](https://raw.githubusercontent.com/newwdeveloper/Employee-Attrition-Dashboard/main/ScreenShots/job%20satisfaction.jpg)
+
+## Compensation & Benefits
+
+![Compensation & Benefits](https://raw.githubusercontent.com/newwdeveloper/Employee-Attrition-Dashboard/main/ScreenShots/compensation%20&%20benifits.jpg)
+
+## Career Development
+
+![Career Development](https://raw.githubusercontent.com/newwdeveloper/Employee-Attrition-Dashboard/main/ScreenShots/career%20development.jpg)
+
+
+
 ### Contact
 Feel free to reach out at  [www.linkedin.com/in/akshay-mangutkar] for questions or to discuss how I can apply these skills to your team!
 
